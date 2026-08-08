@@ -96,6 +96,7 @@ These decision rules are illustrative and would require profitability, loss, fai
 
 ## Repository Structure
 
+```text
 ├── S13_Solved_DataCartography.ipynb
 ├── S13_Student_DataCartography.ipynb
 ├── S13B_Solved_DataDeepDive.ipynb
