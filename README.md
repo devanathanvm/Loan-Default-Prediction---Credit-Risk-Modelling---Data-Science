@@ -96,10 +96,12 @@ These decision rules are illustrative and would require profitability, loss, fai
 
 ## Repository Structure
 
-```text
 ├── S13_Solved_DataCartography.ipynb
+├── S13_Student_DataCartography.ipynb
 ├── S13B_Solved_DataDeepDive.ipynb
+├── S13B_Student_DataDeepDive.ipynb
 ├── S14_Solved_SignalExtraction.ipynb
+├── S14_Student_SignalExtraction.ipynb
 ├── S15_17_Solved_ModelsToDecisions.ipynb
-├── Credit_Risk_Project_Report.docx
+├── S15_17_Student_ModelsToDecisions.ipynb
 └── README.md
